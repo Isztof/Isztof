@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Mariusz Seget
 
-I'm an aspiring web developer with a strong focus on front-end technologies — currently wrapping up my Bachelor’s degree in Business Informatics at Hochschule Bochum. Over the last few years, I’ve gained hands-on experience building full-stack applications and working in agile development teams.
+I'm an aspiring software developer with a strong focus on front-end technologies — currently wrapping up my Bachelor’s degree in Business Informatics at Hochschule Bochum. Over the last few years, I’ve gained hands-on experience building full-stack applications and working in agile development teams.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Looking for a **working student position in web development**, with the opportunity to contribute to real-world projects and write my Bachelor’s thesis.
+- 💼 Looking for a **working student position in software development**, with the opportunity to contribute to real-world projects and write my Bachelor’s thesis.
 - 🌱 Completed the **TechLabs web development track four times**, steadily expanding from HTML/CSS and vanilla JavaScript to React, TypeScript, Tailwind CSS, Redis, and more.
 - 🔁 Strong background in **agile project work (SCRUM)** through two internships and multiple software projects.
 - 🧠 Passionate about writing clean, maintainable code and understanding both front-end and back-end development processes.
