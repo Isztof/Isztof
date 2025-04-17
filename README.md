@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mariusz Seget
 
-I'm an aspiring software developer with a strong focus on front-end technologies — currently wrapping up my Bachelor’s degree in Business Informatics at Hochschule Bochum. Over the last few years, I’ve gained hands-on experience building full-stack applications and working in agile development teams.
+I'm an aspiring software developer with a focus on front-end technologies. I am currently wrapping up my bachelor’s degree in business informatics at Hochschule Bochum. Over the last few years, I’ve gained hands-on experience building full-stack applications and working in agile development teams.
 
 ---
 
@@ -8,7 +8,7 @@ I'm an aspiring software developer with a strong focus on front-end technologies
 
 - 💼 Looking for a **working student position in software development**, with the opportunity to contribute to real-world projects and write my Bachelor’s thesis.
 - 🌱 Completed the **TechLabs web development track four times**, steadily expanding from HTML/CSS and vanilla JavaScript to React, TypeScript, Tailwind CSS, Redis, and more.
-- 🔁 Strong background in **agile project work (SCRUM)** through two internships and multiple software projects.
+- 🔁 Strong background in **agile project work (SCRUM)** through 7 months of professional work experience and multiple software projects.
 - 🧠 Passionate about writing clean, maintainable code and understanding both front-end and back-end development processes.
 
 ---
@@ -36,29 +36,33 @@ I'm an aspiring software developer with a strong focus on front-end technologies
 
 ### 🔹 [Way Home](https://github.com/TechLabs-Ruhr/Way-Home)  
 *React, Next.js, Tailwind CSS, Redis, TypeScript*  
+A safety-focused web app enabling commuters to connect via chat, powered by Redis for instant messaging and secured through OAuth 2 login using GitHub and Google via NextAuth.
 
 ### 🔹 [Clear Your Mind](https://github.com/TechLabs-Ruhr/clear-your-mind)  
 *React, Node.js, Express.js, MySQL*  
+Mental health platform with a forum and a self-assessment questionnaire.
 
 ### 🔹 [Ruhrv7sion](https://github.com/starplayer632/ruhrv7sion-client-server)  
 *React, Node.js*  
-Built as part of TechLabs Ruhr – a vision-driven web platform with full-stack logic.
+A hyper-local job platform for students and companies in the Ruhr Valley, featuring secure login, company directory and a smart matching system.
 
 ### 🔹 [Better Together](https://github.com/better-together-net/Better-Together)  
 *HTML, CSS, Bootstrap, JavaScript, Supabase*  
+A forum web app for digital social interaction, powered by Supabase’s serverless backend.
 
 ### 🔹 Banter Base *(private)*  
-*PHP, MySQL, jQuery, Smarty*  
+*PHP, MySQL, HTML, CSS, Bootstrap, jQuery, Smarty*  
+A responsive full-stack forum application featuring custom user authentication, including email confirmation and password reset, with support for creating and deleting posts and comments.
 
 ---
 
 ## 🏢 Work Experience
 
 **Livello GmbH** *(Werkstudent & Intern, Düsseldorf)*  
-Project coordination, bug triaging, Scrum moderation, requirement engineering.
+Project coordination, project controlling, bug tracking, Scrum moderation, requirements engineering.
 
 **binary stars GmbH** *(Intern, Düsseldorf)*  
-UI/UX concept creation, software testing, project backlog management.
+UI/UX concept creation, software end-to-end testing, project backlog management.
 
 ---
 
