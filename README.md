@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Mariusz Seget
 
-I'm an aspiring software developer with a focus on front-end technologies. I am currently wrapping up my bachelor’s degree in business informatics at Hochschule Bochum. Over the last few years, I’ve gained hands-on experience building full-stack applications and working in agile development teams.
+I'm an aspiring software developer with a focus on front-end technologies. I’m currently working as a Werkstudent (working student) in software development at LABS.ruhr while finishing my bachelor’s degree in Business Informatics at Hochschule Bochum. Over the past few years, I’ve gained hands-on experience building full-stack web applications and collaborating in agile teams.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Looking for a **working student position in software development**, with the opportunity to contribute to real-world projects and write my Bachelor’s thesis.
-- 🌱 Completed the **TechLabs web development track four times**, steadily expanding from HTML/CSS and vanilla JavaScript to React, TypeScript, Tailwind CSS, Redis, and more.
-- 🔁 Strong background in **agile project work (SCRUM)** through 7 months of professional work experience and multiple software projects.
-- 🧠 Passionate about writing clean, maintainable code and understanding both front-end and back-end development processes.
+- 💼 Currently employed as a **working student in software development at LABS.ruhr**, contributing to production-grade projects using React, TypeScript, Tailwind and other modern web technologies.
+- 🌱 Completed the **TechLabs web development track four times**, steadily expanding from HTML/CSS and vanilla JavaScript to React, TypeScript, Tailwind CSS, Redis and more.
+- 🔁 Strong background in **agile software development and SCRUM** through 7 months of professional experience in software project management and through multiple team-based development projects, where I took the technical lead and supported team members in both planning and implementation.
+- 🧠  Passionate about building clean, maintainable and user-focused applications — from UI to API.
 
 ---
 
@@ -57,6 +57,8 @@ A responsive full-stack forum application featuring custom user authentication, 
 ---
 
 ## 🏢 Work Experience
+**LABS.ruhr** *(Werkstudent, Bochum)*
+Web app development, frontend implementation, code reviews, agile collaboration.
 
 **Livello GmbH** *(Werkstudent & Intern, Düsseldorf)*  
 Project coordination, project controlling, bug tracking, Scrum moderation, requirements engineering.
@@ -68,9 +70,10 @@ UI/UX concept creation, software end-to-end testing, project backlog management.
 
 ## 📌 Currently Working On
 
-- Finalizing and polishing my existing portfolio projects  
+- Contributing to client projects at LABS.ruhr  
 - Continuously sharpening my skills through hands-on learning
 - Exploring deeper concepts in modern full-stack web development
+- Completing my bachelor’s degree with a practical focus
 
 ---
 
