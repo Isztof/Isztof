@@ -6,7 +6,7 @@ Full-stack web developer focused on modern web applications built with React, Ne
 
 ## 🧑‍💻 About Me
 
--🎓 **B.Sc. Business Informatics – Hochschule Bochum**
+- 🎓 **B.Sc. Business Informatics – Hochschule Bochum**
   - Bachelor thesis: *Concept and prototypical implementation of a user-oriented digital signing workflow based on the Simple Electronic Signature (EES)*
   - Built a responsive signing application for PDF documents using React, Next.js and TypeScript
 - 🚀 **TechLabs Web Development Track (4x participant)**
